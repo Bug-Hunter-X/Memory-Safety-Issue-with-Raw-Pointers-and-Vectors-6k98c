@@ -1,0 +1,1 @@
+This repository demonstrates a common memory safety issue that can occur in Rust when working with raw pointers and vectors. The `bug.rs` file contains the buggy code, while `bugSolution.rs` provides a safe and corrected version.  This example highlights the importance of safe memory management practices in Rust to prevent undefined behavior and potential crashes.
